@@ -1,0 +1,29 @@
+@media screen and (max-width:979px) and (min-width:768px){
+
+  .text h2{
+    font-size: 2rem;
+  }
+.item .layer .layer-bottom p {
+   font-size: 1.5rem;
+}
+}
+@media screen and (max-width:767px) and (min-width:500px){
+    .text h2{
+        font-size: 1.5rem;
+      }
+        
+
+      .item .layer .layer-bottom p  {
+        font-size: 1.2rem;
+     }
+     
+    
+}
+@media screen and (max-width:499px) and (min-width:320px){
+    .text h2{
+        font-size: 1rem;
+      }
+      .item .layer .layer-bottom p {
+        font-size: 1rem;
+     }
+}
